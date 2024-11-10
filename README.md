@@ -1,5 +1,7 @@
 # Diabetes prediction using machine learning
 
+The aim of this project is to predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset.The datasets consist of several medical predictor variables and one target variable, Outcome. Predictor variables include the number of pregnancies the patient has had, their BMI, insulin level, age, and so on.
+
 Steps involved in the project:
 1.Import Libraries: Import essential libraries like pandas for data manipulation, seaborn and matplotlib for visualization, and sklearn for machine learning.
 
